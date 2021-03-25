@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dogogram</string>
+    <string name="dog_shnur">Dog Shnur</string>
+    <string name="home_dog">Home dog</string>
+    <string name="www_galt_by">www.galt.by</string>
+    <string name="add_a_comment">Add a comment</string>
+    <string name="dog_reks">Dog Reks</string>
+    <string name="comment_one">Отличный ошейник!</string>
+    <string name="fol">635</string>
+    <string name="shnur">Shnur</string>
+    <string name="post">85</string>
+    <string name="follow">Follow</string>
+    <string name="follow_qwantity">1525</string>
+    <string name="follower_qwantity">410</string>
+    <string name="post_qwantity">214</string>
+    <string name="followings">Followings</string>
+    <string name="followers">Followers</string>
+    <string name="posts">Posts</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="like">Like</string>
+    <string name="profile">Profile</string>
+</resources>
